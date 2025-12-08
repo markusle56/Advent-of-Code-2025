@@ -35,7 +35,7 @@ def part1(puzzle):
         else:
             total += multiply(puzzle[i])
     
-    return total
+#DAYDaydfasdfdssdsdffdsfsd    return total
 
 def isEmptyCol(grid, i):
     for j in range(len(grid)):
